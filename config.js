@@ -56,8 +56,8 @@ const CONFIG = {
 
   // ── 우리의 이야기 ──
   story: {
-    title: "성현 + 여진",
-    content: "서로 다른 길을 걷던 두 사람이\n하나의 길을 함께 걷게 되었습니다.\n\n여러분을 소중한 자리에 초대합니다."
+    title: "We decided on forever",
+    content: "We invite you to celebrate love, laughter,\nand the beginning of our forever."
   },
 
   // ── 오시는 길 ──
