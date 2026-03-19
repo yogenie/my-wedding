@@ -56,8 +56,8 @@ const CONFIG = {
 
   // ── 우리의 이야기 ──
   story: {
-    title: "We decided on forever",
-    content: "We invite you to celebrate love, laughter,\nand the beginning of our forever."
+    title: "",
+    content: ""
   },
 
   // ── 오시는 길 ──
